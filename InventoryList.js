@@ -44,5 +44,5 @@
         }
       }
 
-      ReactDOM.render(<InventoryList/>, document.getElementById('main'));
+      ReactDOM.render(<InventoryList/>, document.getElementById('main-inventory'));
 
